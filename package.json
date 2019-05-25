@@ -1,0 +1,20 @@
+{
+  "name": "node-server-creation",
+  "version": "1.0.0",
+  "description": "Sample Node Server Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "npm"
+  ],
+  "author": "Ajay Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
